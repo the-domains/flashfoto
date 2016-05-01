@@ -1,0 +1,28 @@
+name: flashfoto
+favicon: null
+layout_spectrum: 0.021563682705163956
+typography_spectrum: 0.864550281316042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8014933965168893
+  lightness: 0.979125197045505
+  saturation: 0.5867426232434809
+  rhythmicContrast: 0.028525371570140123
+purpose: []
